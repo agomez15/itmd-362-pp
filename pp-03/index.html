@@ -12,12 +12,12 @@
 <form method = "get" form id = "frm1" action ="form_action.asp">
 <ol>
 <li>
-	<label for= "name">Name:</label>
-	<Input type = "text" name = "name" id = "name"/>
+	<label for= "name">Name:</label> 
+	<Input type = "text" name = "name" pattern = "[A-Za-z]" id = "name"/>
 </li>
 <li>
 	<label for= "pnumber">Phone Number:</label>
-	<Input type = "text" name = "pnumber" id = "number"/>
+	<Input type = "text" name = "pnumber" pattern = "[0-9] + ([-\,][0-9]+)?" id = "number"/>
 </li>
 <li>
 	<label for= "bday">Birthday:</label>
