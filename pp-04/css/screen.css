@@ -201,10 +201,21 @@ html {
 label {
   display: block;
 }
-
+p{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+#email{
+	color:gray;
+}
+input{
+	background-color: #DDD;
+}
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
+label{
+font-family: 'Open Sans Condensed', sans-serif;
+}
 
