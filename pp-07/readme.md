@@ -26,11 +26,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL):https://msdn.microsoft.com/library/windows/desktop/dn742463.aspx
+* How you implemented it in your sketch:Left and right click buttons on the slide show so users can go back if it goes to 
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL):https://msdn.microsoft.com/library/windows/desktop/dn742480.aspx
+* How you implemented it in your sketch: Included a slideshow for popular adn well liked pictures to show off campus life.
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL):https://msdn.microsoft.com/library/windows/desktop/dn742449.aspx
+* How you implemented it in your sketch: Direct links to the iit facebook, twitter, youtube, and snapchat, social medias most popular apps. They would show off iit's positive events on campus and encourage being active on the pages. 
